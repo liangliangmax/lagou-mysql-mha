@@ -2,7 +2,7 @@
 
    | 环境&软件          | 版本   |
    | ------------------ | ------ |
-   | VMware Workstation | 15 Pro |
+   | VMware fusion | 12.1   |
    | CentOS             | 7.8    |
    | Mysql              | 5.7.28 |
    |                    |        |
